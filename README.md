@@ -7,3 +7,13 @@ Disk and Permission Auditor: Analyzes important system directories for disk usag
 Log File Analyzer: Reads a log file and counts occurence of a given keyword (e.g. "error"
 Open Source Manifesto Generator: Creates a personalized open-source sstatement using user input.
 This project highlights how VLC Media Player represents the true spirit of open-source software combining accessibility , flexibility and community-driven innovation.It is a reliable and widely used tool sitable for both personal and professional use.
+script1
+![image alt]("C:\Users\NIdhi\OneDrive\Desktop\NIDHI FINAL\nidhi\script_1_nidhi.png")
+script2
+![image alt]("C:\Users\NIdhi\OneDrive\Desktop\NIDHI FINAL\nidhi\Script_2_ss.png")
+script3
+![image alt]("C:\Users\NIdhi\OneDrive\Desktop\NIDHI FINAL\nidhi\Script_3_ss.png")
+script4
+![image alt]("C:\Users\NIdhi\OneDrive\Desktop\NIDHI FINAL\nidhi\Script_4_ss.png")
+script5
+![image alt]("C:\Users\NIdhi\OneDrive\Desktop\NIDHI FINAL\nidhi\script_5_nidhi.png")
