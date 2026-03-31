@@ -1,0 +1,24 @@
+=================================================================
+   MY OPEN SOURCE MANIFESTO
+   By: Nidhi Singh
+   Date: 29 March 2026  |  Time: 00:16:00
+=================================================================
+
+  I, Nidhi Singh, believe that open source software is not just code —
+  it is a movement built on the principle that knowledge belongs to everyone.
+
+  Every day I rely on vlc, a tool created and shared freely by developers
+  around the world who understood that collaboration builds better software than secrecy.
+
+  To me, freedom in the digital world means choice —
+  the ability to inspect, improve, and redistribute the tools we depend on.
+
+  In the spirit of that freedom, I commit to one day building media player
+  and releasing it openly, so that others may learn from it, improve it,
+  and carry the open source philosophy forward.
+
+  Software is most powerful when it is free — free as in freedom.
+
+=================================================================
+  Signed: Nidhi Singh  |  Generated on CachyOS Linux  |  29 March 2026
+=================================================================
